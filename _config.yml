@@ -87,7 +87,7 @@ author:
                       University of Maryland, Baltimore County "
   location         : "Baltimore, Maryland, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C9&q=redwan+walid&oq=red"
   email            : "rwalid1@umbc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
