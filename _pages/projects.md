@@ -1,6 +1,6 @@
 ---
-title: ([Google Scholar Profile](https://scholar.google.com/citations?user=QWJlKQQAAAAJ))
-permalink: /publications/
+title: ([Projects in Github](https://github.com/redwanwalid))
+permalink: /projects/
 author_profile: true
 ---
 
