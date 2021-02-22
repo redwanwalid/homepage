@@ -1,4 +1,7 @@
-
+---
+permalink: /publications/
+author_profile: true
+---
 
 # 2020
 * **Cloud-based Encrypted EHR System with Semantically Rich Access Control and Searchable Encryption**<br>
