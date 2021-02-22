@@ -1,10 +1,9 @@
 ---
-title: ([Projects in Github](https://github.com/redwanwalid))
+title: ([Github Repository](https://github.com/redwanwalid))
 permalink: /projects/
 author_profile: true
 ---
 
-# 2020
-* **Cloud-based Encrypted EHR System with Semantically Rich Access Control and Searchable Encryption**<br>
-Redwan Walid, Karuna Pande Joshi, SeungGeol Choi, and Dae-young Leroy Kim. 7th International Workshop on Privacy and Security of Big Data (PSBD 2020), in conjunction with 2020 IEEE International Conference on Big Data (IEEE BigData 2020).<br>
-[[PDF]](https://ebiquity.umbc.edu/_file_directory_/papers/1055.pdf)
+* **Delegated Access Control using Attribute-Based Encryption**<br>
+Planned to solve some real-world issues and challenges faced in the EHR system stored on the cloud. Built an application using the Python Django framework. The application uses user attributes to control EHR access. ABE was used for encrypting EHR. Built an ontology following the HIPAA act to control access to different fields of an EHR. The framework allows search over encrypted data that was built using the searchable encryption techniques.<br>
+[[Link]](https://knacc.umbc.edu/projects/delegated-access-control-using-attribute-based-encryption-abe/)
